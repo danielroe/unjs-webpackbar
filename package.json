@@ -21,27 +21,27 @@
     "test": "jest"
   },
   "dependencies": {
-    "ansi-escapes": "^4.3.1",
-    "chalk": "^4.1.0",
-    "consola": "^2.15.0",
+    "ansi-escapes": "^4.3.2",
+    "chalk": "^4.1.2",
+    "consola": "^2.15.3",
     "figures": "^3.2.0",
     "pretty-time": "^1.1.0",
-    "std-env": "^2.2.1",
+    "std-env": "^2.3.1",
     "text-table": "^0.2.0",
     "wrap-ansi": "^7.0.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^4.0.0",
-    "babel-jest": "^26.6.2",
+    "babel-jest": "^26.6.3",
     "bili": "^5.0.5",
-    "codecov": "^3.8.0",
-    "eslint": "^7.12.1",
-    "jest": "^26.6.2",
-    "jiti": "^0.1.12",
+    "codecov": "^3.8.3",
+    "eslint": "^7.32.0",
+    "jest": "^26.6.3",
+    "jiti": "^0.1.20",
     "memory-fs": "^0.5.0",
     "rimraf": "^3.0.2",
     "standard-version": "^9.0.0",
-    "webpack": "^5.3.2",
-    "webpack-cli": "^4.1.0"
+    "webpack": "^5.91.0",
+    "webpack-cli": "^4.10.0"
   }
 }
